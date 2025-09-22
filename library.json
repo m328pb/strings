@@ -12,5 +12,10 @@
 		"email":"michal.zielaskowski@gmail.com"
 	},
 	"license":"MIT",
-	"platforms":"atmelvar"
+	"platforms":"atmelvar",
+	"build":{
+		"flags":[
+			"-std=gnu++1z"
+		]
+	}
 }
