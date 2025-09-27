@@ -12,7 +12,7 @@
 		"email":"michal.zielaskowski@gmail.com"
 	},
 	"license":"GNU General Public License v3.0",
-	"platforms":"atmelvar",
+	"platforms":"atmelavr",
 	"build":{
 		"flags":[
 			"-std=gnu++1z"
